@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=LilChihba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LilChihba&theme=onedark)](https://github.com/LilChihba/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilChihba&layout=compact)](https://github.com/LilChihba/github-readme-stats)
 [![codewars](https://www.codewars.com/users/LilChihba/badges/large)](https://www.codewars.com/users/LilChihba)
